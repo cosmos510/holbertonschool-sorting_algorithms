@@ -17,7 +17,7 @@ void swap_int(int *a, int *b)
 
 /**
  * _qsort - helper function for quick sort
- * @a: input arrray
+ * @array: input arrray
  * @low: index for the first element
  * @high: index for the last element
  * @size: size of the array
